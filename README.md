@@ -2,22 +2,6 @@
 
 Welcome to the world of classic arcade gaming with the Street Fighter 2D Game project! In this project, we will embark on a thrilling journey to create an immersive and action-packed 2D Street Fighter game using Java and Swing. Prepare to unleash powerful combos, defeat iconic opponents, and become the ultimate street fighting champion. This README will be your guide through every aspect of this exciting project, from setting up the GUI to deploying the game.
 
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Setting up the GUI](#setting-up-the-gui)
-- [Designing the Splash Screen](#designing-the-splash-screen)
-- [Implementing the Splash Screen](#implementing-the-splash-screen)
-- [Character and Background Design](#character-and-background-design)
-- [Player Input](#player-input)
-- [Game Logic](#game-logic)
-- [Animation](#animation)
-- [Sound Effects and Music](#sound-effects-and-music)
-- [Game Modes](#game-modes)
-- [Testing and Refining](#testing-and-refining)
-- [Game Over and Victory Conditions](#game-over-and-victory-conditions)
-- [Deployment](#deployment)
-
 ## Project Description
 
 Welcome to the adrenaline-pumping world of Street Fighter! This project is all about bringing the classic 2D fighting game experience to life. Here's a comprehensive overview of what we aim to accomplish:
